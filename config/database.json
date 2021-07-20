@@ -1,0 +1,14 @@
+{
+  "development": {
+    "host": "localhost",
+    "port": 1433,
+    "dialect": "mssql",
+    "username": "sa",
+    "password": "sa123456",
+    "database": "aquisicoes"
+  },
+  "test": {
+    "dialect": "sqlite",
+    "storage": "data.sqlite3"
+  }
+}
